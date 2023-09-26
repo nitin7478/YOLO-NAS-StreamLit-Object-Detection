@@ -15,9 +15,9 @@
     (https://pytorch.org/get-started/locally/)
     
 * Install required packages
-    ```
+    
     pip install -r requirements.txt
-    ```
+
 
 * Run StreamLit Webapp
     ```
