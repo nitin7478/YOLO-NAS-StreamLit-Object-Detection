@@ -11,8 +11,7 @@
     ```
 
 * Install pytorch and torchvision as per your system from below link
-    ```
-    [PyTorch Installation Link](https://pytorch.org/get-started/locally/)
+    [PyTorch] (https://pytorch.org/get-started/locally/)
     ```
 * Install required packages
     ```
