@@ -23,5 +23,5 @@
     ```
     streamlit run app.py
     ```
- 
-[Liccence](https://github.com/nitin7478/YOLO-NAS-StreamLit-Object-Detection/blob/63cec10b35900ff2bbd238501abad216f492a90c/LICENSE)
+
+## [Licence](https://github.com/nitin7478/YOLO-NAS-StreamLit-Object-Detection/blob/63cec10b35900ff2bbd238501abad216f492a90c/LICENSE)
